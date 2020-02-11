@@ -1,0 +1,36 @@
+sum of two distinct numbers that equal 13.
+{4,9},{5,8},{7,8}
+
+Product of two distinct numbers that equal 24.
+{3,8},{4,6}
+
+Product of two distinct numbers that equal 8.
+{1,7},{2,6}
+
+sum of two distinct numbers that equal 10.
+{1,9},{8,2}
+
+Product of three distinct numbers that equal 30.
+{5,2,3}
+
+Product of three numbers that equals 162 with at most one number repeated.
+{}
+
+Product of three numbers that equal 392 with at most one number repeated.
+{7,7,8}
+
+sum of three numbers that equal 17 with at most one number repeated.
+{4,3,5}
+
+Products of four numbers that equals 540 with at most one number repeated.
+{3,5,6,6}
+
+sum of four distinct numbers that equals 10.
+{,}
+
+Product of three numbers that equal 24 with at most one number repeated.
+{,}
+
+sum of three numbers that equals 1344 with at most one number repeated.
+{}
+
