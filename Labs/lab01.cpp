@@ -29,7 +29,7 @@ cout << firstname <<"\n" <<lastname<<"\n" <<age<<"\n";
 
     
     // Task-3    
-    
+    cout << firstname<<
 
 
     // Task-4
