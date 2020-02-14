@@ -16,6 +16,7 @@ int main()
     // Task 0 Image
     cout << "\n";
     // todo
+    cout<<"\n";
     string row;
     row = "***************";
     cout<<row<<"\n";
@@ -24,9 +25,11 @@ int main()
     cout<<row<<"\n";
     cout<<row<<"\n";
     cout<<row<<"\n";
+    cout<<"\n";
     // Task 1 Image
     cout << "\nImage for task 1\n";
     // todo
+    cout<<"\n";
     string row02;
     string row2;
     string row3;
@@ -41,9 +44,11 @@ int main()
         cout<<row2<<"\n";
     cout<<row3<<"\n";
     cout<<row3<<"\n";
+    cout<<"\n";
     // Task 2 Image
     cout << "\nImage for taks 2\n";
     // todo
+    cout<<"\n";
     string row4; row4 = "        ** ";
     string row5; row5 = "       **** ";
     string row6; row6 = "      ****** ";
@@ -60,5 +65,6 @@ int main()
     cout<<row9<<"\n";
     cout<<row10<<"\n";
     cout<<row11<<"\n";
+    cout<<"\n";
     return 0;
 }
