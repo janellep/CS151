@@ -11,13 +11,14 @@
 #include <iostream>
 using namespace std;
 
+/* /
 int main()
 {
     string fname ;
     string lname ;
-    
+    string star;
 
-    
+    star = "*" + 
     fname = "Janelle";
     lname = "Piedrahita";
     cout<<"*************\n"+lname+","+fname+"\n"+"*************\n"<<endl;

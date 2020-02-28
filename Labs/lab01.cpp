@@ -20,16 +20,16 @@ int main()
     string firstname,lastname;
 
     // Task-1
-firstname = "Frank";
-lastname = "Sinatra";
-age = 80;
+    firstname = "Frank";
+    lastname = "Sinatra";
+    age = 80;
     
     // Task-2
-cout << firstname <<"\n" <<lastname<<"\n" <<age<<"\n";
+    cout << firstname <<"\n" <<lastname<<"\n" <<age<<"\n";
 
     
     // Task-3    
-    cout << firstname<<
+    cout << firstname;
 
 
     // Task-4

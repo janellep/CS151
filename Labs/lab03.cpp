@@ -24,6 +24,7 @@ int main()
     cout<<"\n";
 
     cout << "\nTask 1:\n";
+
     // Todo
     cout<<"\n";
     int height;
@@ -36,7 +37,7 @@ int main()
     cout<<"\n";
 
     cout << "\nTask 2: \n";
-    // Todo
+    // Todo 
     cout<<"\n";
     string star1;
     string star2;
