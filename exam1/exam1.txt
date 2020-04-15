@@ -7,7 +7,6 @@ Start of solutions for Fundamentals:
 a) // Todo
 
 
-
 b) // Todo
 
 
@@ -66,6 +65,11 @@ End of solutions for Tracing
 Start of solutions for Debugging
 
 // Todo: For each line that has a syntax error in the program below, write its line number and its line correction. 
+
+#10 cout<< x << ","<< y<<"/n";
+#14 y = 7 - y * 3 ;
+#15 cout << "/n" << x <<"," << y <<"/n" ;
+#18 cout << "x" ;
 
 
 
