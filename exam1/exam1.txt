@@ -1,0 +1,76 @@
+Solutions for cs151-040 exam 1
+Student name: <Janelle Piedrahita>
+Date: 04/14/2020
+
+
+Start of solutions for Fundamentals:
+a) // Todo
+
+
+
+b) // Todo
+
+
+c) // Todo
+
+
+e) // Todo
+
+
+f)// Todo
+
+
+g) // Todo
+
+End  of solutions for Fundamentals:
+
+
+
+
+
+
+
+Start of solutions for Problem Solving:
+
+
+// Todo: your  C++ code goes here
+// Note: you will NOT be compiling this program.
+
+
+End of solutions for Problem Solving:
+
+
+
+
+
+
+
+
+
+Start of solutions for Tracing
+
+// Todo: Use the tracing template to complete the trace table:
+https://docs.google.com/spreadsheets/d/1lSp19UDlTqASIL9gh-jlAaSyxVREb7Oa4CXNYpzghq4/edit?usp=sharing
+
+// upload  a pdf file with your trace to Google Cloud Shell under the ~/cs151 directory
+
+
+End of solutions for Tracing
+
+
+
+
+
+
+
+Start of solutions for Debugging
+
+// Todo: For each line that has a syntax error in the program below, write its line number and its line correction. 
+
+
+
+End of solutions for Debugging
+
+
+
+

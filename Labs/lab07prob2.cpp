@@ -23,8 +23,18 @@ using namespace std;
 
 int main()
 {    
-    // TODO:
-    // implement your Pseudocode in C++ 
+int unitStocks;
+    double stockPrice,stockCost, comPerc, com,total;
+    cout<< "Enter the units of shares bought?"<<endl;
+    cin>>unitStocks;
+    cout <<"Enter the price of the stocks?"<<endl;
+    cin>>stockPrice;
+    cout<< "Enter commission percent?"<<endl;
+    cin>>comPerc;
+    stockCost=unitStocks*stockPrice;
+    com=stockCost*comPerc/100;
+    total=stockCost+com;
+    cout<<"The cost of the stock is $"<<setprecision(2)<<fixed <<stockCost<<", the commission at "<<comPerc<<"% is $"<<setprecision(2)<<fixed <<com<<", your total is $"<<setprecision(2)<<fixed <<total<<"."<<endl;
 
     return 0;
 }
