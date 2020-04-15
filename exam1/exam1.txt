@@ -8,6 +8,8 @@ a) // Todo
 
 
 b) // Todo
+int var1,var2,var3,var4 = 12.5 ;    
+
 
 
 c) // Todo
@@ -65,11 +67,14 @@ End of solutions for Tracing
 Start of solutions for Debugging
 
 // Todo: For each line that has a syntax error in the program below, write its line number and its line correction. 
-
-#10 cout<< x << ","<< y<<"/n";
-#14 y = 7 - y * 3 ;
-#15 cout << "/n" << x <<"," << y <<"/n" ;
-#18 cout << "x" ;
+#01 <iostream>
+#02 using namespace std ;
+#04 main()
+#07 cin >> x ;
+#11 intz = x + y ;
+#12 cout << z ;
+#14 y = 3 * y - 7 ;
+#18 cin >> x ;
 
 
 
